@@ -1,0 +1,81 @@
+body{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/258/943/non_2x/modern-dark-texture-background-vector.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+ 
+}
+
+
+
+button{
+    background-color: darkblue;
+    border-radius: 20px;
+    color: antiquewhite;
+    margin-top: 10px;
+    margin-bottom:50px !important ;
+    border: 3px solid rgb(92,89,89);
+}
+
+a{
+    color: white;
+}
+div{
+    background: white;
+    border: 10px solid rgb(55, 224, 213);
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top
+    :50px !important;
+    margin-bottom: 50px;
+    font-size: xx-small;
+    border-radius: 30px;
+    background-image: url('https://img.freepik.com/premium-vector/white-abstract-background-with-square-pattern_336924-3449.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: smaller;
+    height: 300px !important;
+    width: 270px;
+    box-shadow: 10px 5px  40px 5px white;
+   
+}
+
+.inpt{
+    margin-right:10px;
+}
+.put{
+    margin-left: 20px;
+}
+   
+
+h3{
+    margin-right: 120px;
+    margin-top: 20px;
+}
+h1{
+    color:rgb(92, 89, 89) ;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWrmJMwCMwsIFio2x9tJMjvU4nywbwJSMAYg&usqp=CAU');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
